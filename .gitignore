@@ -1,3 +1,6 @@
-build/
 bin/foo
 bin/state_machine
+doc/html
+doc/latex
+build/
+
